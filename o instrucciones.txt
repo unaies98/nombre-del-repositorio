@@ -1,0 +1,4 @@
+“Instrucciones para el ejercicio: 
+•1. Realizar un pull. 
+•2. Resolver conflictos si los hay. 
+•3. Trabajar en equipo.”
